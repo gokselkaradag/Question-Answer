@@ -1,0 +1,6 @@
+@QuestionProject.WebApı_HostAddress = http://localhost:5049
+
+GET {{QuestionProject.WebApı_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
